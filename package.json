@@ -1,0 +1,29 @@
+{
+  "name": "ytmp3dl-cli",
+  "version": "0.0.1",
+  "description": "Youtube mp3 downloader - command line interface module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensoars/ytmp3dl-cli.git"
+  },
+  "keywords": [
+    "youtube",
+    "mp3",
+    "audio",
+    "download",
+    "cli",
+    "command",
+    "interface",
+    "terminal"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensoars/ytmp3dl-cli/issues"
+  },
+  "homepage": "https://github.com/opensoars/ytmp3dl-cli#readme"
+}
